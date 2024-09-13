@@ -1,9 +1,5 @@
-COMANDOS --
-npm install express debug
-docker compose up 
-npm start
+Integrantes: 
+Guilherme Lima Oliveira RM93401
+Guilherme Miguel Dornelas RM94599 
 
-APPS --
-Docker
-MongoDBCompass
-Postman
+DOCUMENTO PDF DENTRO DO PROJETO 
